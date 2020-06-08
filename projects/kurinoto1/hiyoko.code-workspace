@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../es6_sample"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "kurinoto1"
+	}
+}
